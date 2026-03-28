@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   
- "homepage": "https://YOURUSERNAME.github.io/movie-react",
+ "homepage": "https://YOURUSERNAME.github.io/moivie-react",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",

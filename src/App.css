@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ececec;
+}
+
+.top-header {
+  background-color: #24364b;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.top-header h1 {
+  margin: 0;
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.controls {
+  background-color: #304864;
+  text-align: center;
+  padding: 24px 0;
+}
+
+.controls input,
+.controls select {
+  width: 220px;
+  padding: 12px;
+  font-size: 16px;
+  margin: 0 6px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 24px;
+  padding: 24px;
+}
+
+.movie-card {
+  background-color: #f7f7f7;
+  border-radius: 14px;
+  text-align: center;
+  padding: 18px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+.movie-card img {
+  width: 100%;
+  max-width: 250px;
+  height: 370px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.movie-card h2 {
+  font-size: 28px;
+  margin: 16px 0 10px;
+}
+
+.movie-card p {
+  font-size: 16px;
+  margin: 14px 0;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  padding: 20px 0 40px;
+}
+
+.pagination button {
+  background-color: #2f8edc;
+  color: white;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.pagination button:hover {
+  background-color: #1f6fb0;
+}

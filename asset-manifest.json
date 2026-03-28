@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie-react/static/css/main.ff05eafe.css",
-    "main.js": "/movie-react/static/js/main.7706c0cd.js",
-    "static/js/453.eae10375.chunk.js": "/movie-react/static/js/453.eae10375.chunk.js",
-    "index.html": "/movie-react/index.html",
-    "main.ff05eafe.css.map": "/movie-react/static/css/main.ff05eafe.css.map",
-    "main.7706c0cd.js.map": "/movie-react/static/js/main.7706c0cd.js.map",
-    "453.eae10375.chunk.js.map": "/movie-react/static/js/453.eae10375.chunk.js.map"
+    "main.css": "/moivie-react/static/css/main.ff05eafe.css",
+    "main.js": "/moivie-react/static/js/main.74d04f5f.js",
+    "static/js/453.eae10375.chunk.js": "/moivie-react/static/js/453.eae10375.chunk.js",
+    "index.html": "/moivie-react/index.html",
+    "main.ff05eafe.css.map": "/moivie-react/static/css/main.ff05eafe.css.map",
+    "main.74d04f5f.js.map": "/moivie-react/static/js/main.74d04f5f.js.map",
+    "453.eae10375.chunk.js.map": "/moivie-react/static/js/453.eae10375.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff05eafe.css",
-    "static/js/main.7706c0cd.js"
+    "static/js/main.74d04f5f.js"
   ]
 }
